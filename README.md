@@ -1,8 +1,8 @@
 ### Hi, I'm Wraith! 👋
 
-- 🔭 I’m currently working on [**wraith.gg**](https://wraith.gg)
+- 🔭 I’m currently working on [**wraith.to**](https://wraith.to)
 - 🌱 I’m currently learning **React**
-- 📫 How to reach me: **hello (at) wraith.gg**
+- 📫 How to reach me: **hello (at) wraith.to**
 - 😄 Pronouns: **He/Him**
 
 <!-- - 👯 I’m not looking to collaborate on ...
